@@ -1,0 +1,28 @@
+{
+  "name": "openzeppelin_learning",
+  "version": "1.0.0",
+  "description": "Learning about the Openzeppelin library of smart contracts",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle develop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marky376/openzeppelin_learning.git"
+  },
+  "keywords": [
+    "truffle",
+    "init",
+    "npm",
+    "init"
+  ],
+  "author": "Mark Munyao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marky376/openzeppelin_learning/issues"
+  },
+  "homepage": "https://github.com/marky376/openzeppelin_learning#readme"
+}
