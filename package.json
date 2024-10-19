@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/marky376/openzeppelin_learning/issues"
   },
-  "homepage": "https://github.com/marky376/openzeppelin_learning#readme"
+  "homepage": "https://github.com/marky376/openzeppelin_learning#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0"
+  }
 }
